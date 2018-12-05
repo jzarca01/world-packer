@@ -1,0 +1,16 @@
+{
+  "name": "node-worldpackers",
+  "version": "0.0.1",
+  "description": "An API Wrapper for Worldpackers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jérémie Zarca <jeremie.zarca@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "slugify": "^1.3.3"
+  }
+}
